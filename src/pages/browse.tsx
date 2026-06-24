@@ -5,11 +5,16 @@ import Heading from '@theme/Heading';
 
 import styles from './browse.module.css';
 
+type Procedure = {
+  name: string;
+  to: string;
+};
+
 type Region = {
   title: string;
   icon: string;
   to: string;
-  blocks: string[];
+  procedures: Procedure[];
 };
 
 const regions: Region[] = [
@@ -17,67 +22,64 @@ const regions: Region[] = [
     title: 'Upper Limb',
     icon: '\u{1F4AA}',
     to: '/docs/category/upper-limb',
-    blocks: [
-      'Interscalene',
-      'Supraclavicular',
-      'Axillary',
-      'Wrist blocks',
-      'WALANT',
+    procedures: [
+      {name: 'Shoulder Arthroscopy', to: '/docs/upper-limb/shoulder-arthroscopy'},
+      {name: 'ORIF Distal Radius', to: '/docs/upper-limb/distal-radius-orif'},
+      {name: 'Carpal Tunnel Release', to: '/docs/upper-limb/carpal-tunnel-release'},
+      {name: 'Hand & Plastics Trauma', to: '/docs/upper-limb/hand-trauma'},
+      {name: 'Vascular Access (AV Fistula)', to: '/docs/upper-limb/vascular-access-surgery'},
     ],
   },
   {
     title: 'Lower Limb',
     icon: '\u{1F9B5}',
     to: '/docs/category/lower-limb',
-    blocks: [
-      'Fascia iliaca / PENG',
-      'Adductor canal',
-      'iPACK',
-      'Popliteal sciatic',
-      'Saphenous',
-      'Ankle block',
-      'Sciatic catheter',
+    procedures: [
+      {name: 'Total Knee Replacement', to: '/docs/lower-limb/total-knee-replacement'},
+      {name: 'Hip Arthroplasty / NOF', to: '/docs/lower-limb/hip-arthroplasty'},
+      {name: 'Ankle ORIF', to: '/docs/lower-limb/ankle-orif'},
+      {name: 'Above Knee Amputation', to: '/docs/lower-limb/above-knee-amputation'},
+      {name: 'Peripheral Vascular Surgery', to: '/docs/lower-limb/peripheral-vascular-surgery'},
     ],
   },
   {
     title: 'Trunk',
     icon: '\u{1FAC1}',
     to: '/docs/category/trunk',
-    blocks: [
-      'Thoracic epidural',
-      'Paravertebral',
-      'PECS I & II',
-      'Serratus anterior plane',
-      'Erector spinae plane',
-      'TAP',
-      'Rectus sheath',
-      'Quadratus lumborum',
+    procedures: [
+      {name: 'Laparotomy', to: '/docs/trunk/laparotomy'},
+      {name: 'Mastectomy & Breast Surgery', to: '/docs/trunk/mastectomy'},
+      {name: 'Rib Fractures', to: '/docs/trunk/rib-fractures'},
+      {name: 'Inguinal Hernia Repair', to: '/docs/trunk/inguinal-hernia-repair'},
+      {name: 'Caesarean Section', to: '/docs/trunk/caesarean-section'},
     ],
   },
   {
     title: 'Head & Neck',
     icon: '\u{1F9E0}',
     to: '/docs/category/head--neck',
-    blocks: [
-      'Superficial cervical plexus',
+    procedures: [
+      {name: 'Thyroidectomy', to: '/docs/head-and-neck/thyroidectomy'},
     ],
   },
 ];
 
-function RegionCard({title, icon, to, blocks}: Region): ReactNode {
+function RegionCard({title, icon, to, procedures}: Region): ReactNode {
   return (
     <div className="col col--6" style={{marginBottom: '1.5rem'}}>
-      <Link to={to} className={styles.regionCard}>
-        <div className={styles.regionHeader}>
-          <span className={styles.regionIcon}>{icon}</span>
-          <Heading as="h2" className={styles.regionTitle}>{title}</Heading>
-        </div>
+      <div className={styles.regionCard}>
+        <Link to={to} className={styles.regionHeaderLink}>
+          <div className={styles.regionHeader}>
+            <span className={styles.regionIcon}>{icon}</span>
+            <Heading as="h2" className={styles.regionTitle}>{title}</Heading>
+          </div>
+        </Link>
         <ul className={styles.blockList}>
-          {blocks.map((block, idx) => (
-            <li key={idx}>{block}</li>
+          {procedures.map((proc, idx) => (
+            <li key={idx}><Link to={proc.to} className={styles.procLink}>{proc.name}</Link></li>
           ))}
         </ul>
-      </Link>
+      </div>
     </div>
   );
 }
@@ -86,11 +88,11 @@ export default function Browse(): ReactNode {
   return (
     <Layout
       title="Browse by Region"
-      description="Find blocks by body region">
+      description="Find procedures by body region">
       <main className={styles.main}>
         <div className="container">
           <Heading as="h1" className={styles.pageTitle}>Browse by Region</Heading>
-          <p className={styles.subtitle}>Select a region to see all procedures and their recommended blocks.</p>
+          <p className={styles.subtitle}>Select a procedure to see the recommended regional technique.</p>
           <div className="row">
             {regions.map((region, idx) => (
               <RegionCard key={idx} {...region} />

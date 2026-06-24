@@ -61,3 +61,23 @@
 .blockList li {
   margin-bottom: 0.2rem;
 }
+
+.regionHeaderLink {
+  text-decoration: none;
+  color: inherit;
+}
+
+.regionHeaderLink:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.procLink {
+  color: var(--ifm-color-emphasis-800);
+  text-decoration: none;
+}
+
+.procLink:hover {
+  color: var(--ifm-color-primary);
+  text-decoration: underline;
+}
