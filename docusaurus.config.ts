@@ -64,8 +64,8 @@ const config: Config = {
           label: 'Procedures',
         },
         {
-          to: '/docs/find-by-body-part',
-          label: 'Find by Body Part',
+          to: '/browse',
+          label: 'Browse by Region',
           position: 'left',
         },
         {

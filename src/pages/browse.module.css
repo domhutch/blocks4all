@@ -1,0 +1,63 @@
+.main {
+  padding: 2rem 0 4rem;
+}
+
+.pageTitle {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: var(--ifm-color-emphasis-700);
+  font-size: 1.1rem;
+}
+
+.regionCard {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 10px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.2s, border-color 0.2s;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.regionCard:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  color: inherit;
+}
+
+.regionHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.regionIcon {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+.regionTitle {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.blockList {
+  margin: 0;
+  padding-left: 1.2rem;
+  font-size: 0.95rem;
+  color: var(--ifm-color-emphasis-700);
+  list-style: disc;
+}
+
+.blockList li {
+  margin-bottom: 0.2rem;
+}

@@ -11,7 +11,7 @@ A searchable reference for common surgical procedures and their recommended regi
 
 Use the **search bar** at the top to find a procedure, block, or drug by name. Or browse by body region using the **sidebar**.
 
-Don't know the procedure name? Use the **[Find by Body Part](./find-by-body-part.md)** page to look up by presentation.
+Or use the **[Browse by Region](/browse)** page to find blocks by body area.
 
 ## Quick Reference
 

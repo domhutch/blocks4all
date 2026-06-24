@@ -31,8 +31,8 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/find-by-body-part">
-            Find by Body Part
+            to="/browse">
+            Browse by Region
           </Link>
         </div>
       </div>
