@@ -43,6 +43,18 @@ Covers the anterior thigh and medial stump. 20–30 mL ropivacaine 0.375%. Singl
 |---|---|---|
 | Good pain control including reduced rate of phantom pain; reduced opioid requirement; avoid potential morbidity/mortality of GA in severely co-morbid patients | Catheter dislodgement or fallout — may need tunnelling | Pneumothorax |
 
+## Catheter setup (NUTH)
+
+| | Detail |
+|---|---|
+| **Needle** | Operator preference (Pajunk) |
+| **Catheter** | Straight; consider tunnelling for longer duration |
+| **Pump** | CADD Solis (grey) |
+| **Infusion** | Levobupivacaine 0.125% — max 4 mL/hr (> 50 kg), 6 mL/hr (> 60 kg), 8 mL/hr (> 70 kg). Freeman: bupivacaine 0.1% — max 8 mL/hr (50–70 kg), 10 mL/hr (> 70 kg) |
+| **Duration** | Non-tunnelled: up to 72 hours. Tunnelled: up to 2 weeks (Freeman) |
+
+Stimulating nerve catheters should be tunnelled and stitched with ≥ 3 cm exposed before securing at the lock device hub.
+
 ## Considerations
 
 - Phantom limb pain affects 50–80% of amputees; perioperative sciatic catheter infusion for ≥ 48 hours may reduce incidence and severity

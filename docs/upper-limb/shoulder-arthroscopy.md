@@ -36,6 +36,16 @@ Arthroscopic shoulder surgery — rotator cuff repair, subacromial decompression
 |---|---|---|
 | Improved day case rate; athletic/sports injury patients may wish to watch surgery | Horner's syndrome; phrenic nerve block | Pneumothorax |
 
+## Catheter setup (NUTH)
+
+| | Detail |
+|---|---|
+| **Needle** | Facet needle (Pajunk) |
+| **Catheter** | Straight |
+| **Pump** | Elastomeric |
+| **Infusion** | Ropivacaine 0.2% — max 4 mL/hr (> 50 kg), 6 mL/hr (> 60 kg), 6 mL/hr (> 70 kg) |
+| **Duration** | 72 hours |
+
 ## Considerations
 
 - Phrenic nerve palsy occurs in ~100% of traditional interscalene blocks — avoid in patients with significant respiratory compromise or contralateral phrenic palsy

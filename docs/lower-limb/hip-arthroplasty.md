@@ -37,6 +37,18 @@ Total hip replacement (THR) or hemiarthroplasty for osteoarthritis, fractured ne
 |---|---|---|
 | Reduced opioid dosing and avoidance of opioid side effects; may be topped up for theatre (NOF fixation) if catheter sited | Will not be total pain relief; catheter dislodgement or fallout (± re-site) | Apnoea |
 
+## Catheter setup (NUTH)
+
+| | Detail |
+|---|---|
+| **Needle** | Tuohy needle (Pajunk) |
+| **Catheter** | Straight |
+| **Pump** | CADD Solis (grey) |
+| **Infusion** | Levobupivacaine 0.125% — max 6 mL/hr (> 50 kg), 8 mL/hr (> 60 kg), 8 mL/hr (> 70 kg) |
+| **Duration** | 24 hours post-fixation (RVI standard) |
+
+Levobupivacaine 0.125% may not provide adequate analgesia for severe fracture pain — consider 0.25% levobupivacaine or ropivacaine.
+
 ## Considerations
 
 - Fascia iliaca block is the most common perioperative nerve block for hip fractures (NICE guidelines)

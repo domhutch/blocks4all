@@ -38,6 +38,19 @@ Not a surgical procedure per se, but rib fractures (traumatic or pathological) c
 |---|---|---|
 | Avoidance of pain, respiratory failure, lung infection, and critical care admission | Will involve catheter; may require top-ups; regular pain team review; catheter dislodgement or fallout (± re-site) | Pneumothorax; paravertebral haematoma; epidural spread |
 
+## Catheter setup (NUTH)
+
+| | Detail |
+|---|---|
+| **Needle** | Tuohy needle (Pajunk) |
+| **Catheter** | Curled (reduces migration risk) |
+| **Pump** | Elastomeric |
+| **Infusion** | Levobupivacaine 0.25% — max 6 mL/hr (> 50 kg), 8 mL/hr (> 60 kg), 10 mL/hr (> 70 kg) |
+| **Cardiothoracics** | Bupivacaine 0.1% — 8–10 mL/hr (< 70 kg), 12–15 mL/hr (> 70 kg) |
+| **Duration** | Up to 5 days (RVI standard) |
+
+Levobupivacaine 0.125% may not provide adequate analgesia for rib fracture pain — 0.25% is preferred.
+
 ## Considerations
 
 - Early aggressive analgesia reduces pneumonia, intubation, and mortality

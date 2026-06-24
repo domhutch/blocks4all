@@ -44,6 +44,16 @@ Simple mastectomy, modified radical mastectomy, wide local excision ± axillary 
 - Breast innervation: anterior and lateral cutaneous branches of T2–T6 intercostal nerves, plus supraclavicular nerves (C3–C4) to upper breast
 - Long thoracic and thoracodorsal nerves — relevant for axillary dissection
 
+## Catheter setup (NUTH)
+
+| | Detail |
+|---|---|
+| **Needle** | Tuohy needle (Pajunk) |
+| **Catheter** | Curled (reduces migration risk) |
+| **Pump** | Elastomeric |
+| **Infusion** | Levobupivacaine 0.25% — max 6 mL/hr (> 50 kg), 8 mL/hr (> 60 kg), 10 mL/hr (> 70 kg) |
+| **Duration** | 48–72 hours |
+
 ## Considerations
 
 - PVB carries a small risk of pneumothorax (< 1% with ultrasound guidance)
