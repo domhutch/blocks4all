@@ -32,6 +32,12 @@ Simple mastectomy, modified radical mastectomy, wide local excision ± axillary 
 - **Serratus anterior plane (SAP) block** — superficial or deep to serratus anterior at the mid-axillary line, 5th rib. 20–30 mL ropivacaine 0.25–0.375%. Covers lateral chest wall; useful adjunct for axillary dissection.
 - **Erector spinae plane (ESP) block** — emerging alternative to PVB with similar dermatomal spread, potentially safer. Evidence base still developing.
 
+## Consent discussion (NUTH)
+
+| Benefits | Common side effects | Serious complications |
+|---|---|---|
+| Improved day case rate; reduced opioid dosing and avoidance of opioid side effects; usually performed after induction | — | Pneumothorax; paravertebral haematoma; epidural spread |
+
 ## Key anatomy
 
 - Paravertebral space: wedge-shaped, bounded by vertebral body, superior costotransverse ligament, and parietal pleura

@@ -31,6 +31,12 @@ Total hip replacement (THR) or hemiarthroplasty for osteoarthritis, fractured ne
 - Fascia iliaca compartment: between fascia iliaca and iliacus muscle
 - Suprainguinal approach achieves more reliable lateral femoral cutaneous nerve block than infrainguinal
 
+## Consent discussion (NUTH)
+
+| Benefits | Common side effects | Serious complications |
+|---|---|---|
+| Reduced opioid dosing and avoidance of opioid side effects; may be topped up for theatre (NOF fixation) if catheter sited | Will not be total pain relief; catheter dislodgement or fallout (± re-site) | Apnoea |
+
 ## Considerations
 
 - Fascia iliaca block is the most common perioperative nerve block for hip fractures (NICE guidelines)

@@ -37,6 +37,12 @@ Covers the anterior thigh and medial stump. 20–30 mL ropivacaine 0.375%. Singl
 - For AKA, the nerve is transected at the level of amputation — the proximal stump is the source of stump and phantom pain
 - Place the catheter as close to the transection level as feasible, or more proximally for broader coverage
 
+## Consent discussion (NUTH)
+
+| Benefits | Common side effects | Serious complications |
+|---|---|---|
+| Good pain control including reduced rate of phantom pain; reduced opioid requirement; avoid potential morbidity/mortality of GA in severely co-morbid patients | Catheter dislodgement or fallout — may need tunnelling | Pneumothorax |
+
 ## Considerations
 
 - Phantom limb pain affects 50–80% of amputees; perioperative sciatic catheter infusion for ≥ 48 hours may reduce incidence and severity

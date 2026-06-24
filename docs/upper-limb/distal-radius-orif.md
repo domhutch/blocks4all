@@ -30,11 +30,18 @@ Open reduction and internal fixation of distal radius fractures — volar lockin
 - Pleura visible deep to the first rib — key safety landmark
 - Dorsal scapular artery may traverse the plexus
 
+## Consent discussion (NUTH)
+
+| Benefits | Common side effects | Serious complications |
+|---|---|---|
+| High patient satisfaction; good pain control; increased day case rates | Horner's (supraclavicular only); phrenic nerve block (supraclavicular only); tourniquet pain | Pneumothorax (supraclavicular and infraclavicular) |
+
 ## Considerations
 
 - Supraclavicular block provides reliable hand and wrist anaesthesia — "the spinal of the upper limb"
 - Tourniquet tolerance is usually good for forearm tourniquets
 - Avoid supraclavicular approach in patients with significant respiratory disease (phrenic nerve palsy risk ~1%)
+- May include "top-up blocks" if incomplete; follow-up via text message service
 - Can be performed as day-case regional anaesthesia without general anaesthesia
 
 ## References

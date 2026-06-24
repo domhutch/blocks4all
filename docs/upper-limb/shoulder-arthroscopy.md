@@ -30,11 +30,18 @@ Arthroscopic shoulder surgery — rotator cuff repair, subacromial decompression
 - C5/C6 roots seen as hypoechoic round structures ("traffic light" sign)
 - Phrenic nerve runs on the anterior surface of anterior scalene
 
+## Consent discussion (NUTH)
+
+| Benefits | Common side effects | Serious complications |
+|---|---|---|
+| Improved day case rate; athletic/sports injury patients may wish to watch surgery | Horner's syndrome; phrenic nerve block | Pneumothorax |
+
 ## Considerations
 
 - Phrenic nerve palsy occurs in ~100% of traditional interscalene blocks — avoid in patients with significant respiratory compromise or contralateral phrenic palsy
 - Consider low-volume technique (5–10 mL) to reduce phrenic involvement
 - Catheter placement for open procedures or anticipated severe pain
+- May involve day case shoulder surgery under regional anaesthesia alone
 
 ## References
 

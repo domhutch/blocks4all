@@ -17,10 +17,13 @@ Or use the **[Browse by Region](/browse)** page to find blocks by body area.
 
 Essential pages you'll need on shift:
 
+- **[Performing a Block](./quick-reference/performing-a-block.md)** — safety checklist, Prep-Stop-Block, infection control, documentation
 - **[LA Dosing & Calculations](./quick-reference/la-dosing.md)** — max doses, concentration tables, adjuvants
 - **[LA Toxicity & Lipid Rescue](./quick-reference/la-toxicity.md)** — recognition, Intralipid protocol, cardiac arrest management
+- **[Anticoagulation & Blocks](./quick-reference/anticoagulation.md)** — ESRA 2022 timing tables, deep vs superficial classification
 - **[Standard Infusion Recipes](./quick-reference/standard-infusions.md)** — epidural, PVB, fascia iliaca, sciatic catheters
 - **[Antibiotic Re-dosing](./quick-reference/antibiotic-redosing.md)** — intraoperative re-dosing intervals by agent
+- **[Nerve Injury Follow-up](./quick-reference/nerve-injury-followup.md)** — 48-hour review pathway, urgent vs non-urgent lesions
 - **[Contacts](./quick-reference/contacts.md)** — pain team, RA on-call, useful links
 
 ## Procedures by Region

@@ -31,6 +31,12 @@ Open reduction and internal fixation of ankle fractures — lateral malleolus (f
 - **Ankle block** — ring block of the 5 terminal nerves at the ankle (tibial, deep peroneal, superficial peroneal, sural, saphenous). Suitable for foot surgery; less reliable for ankle ORIF with proximal incisions.
 - **Spinal anaesthesia** — appropriate as primary anaesthetic, particularly for emergency cases
 
+## Consent discussion (NUTH)
+
+| Benefits | Common side effects | Serious complications |
+|---|---|---|
+| Good pain control; improved day case rate; with/without general anaesthesia | Transient period of non-weight bearing (may need physiotherapy review ± crutches prior to discharge) | — |
+
 ## Key anatomy
 
 - Sciatic nerve bifurcates into tibial and common peroneal nerves in the popliteal fossa, typically 5–8 cm above the popliteal crease
