@@ -14,7 +14,7 @@ const config: Config = {
   },
 
   url: 'https://domhutch.github.io',
-  baseUrl: '/blocks4all/',
+  baseUrl: process.env.DOCUSAURUS_BASE_URL || '/blocks4all/',
 
   organizationName: 'domhutch',
   projectName: 'blocks4all',
