@@ -71,11 +71,11 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Procedures',
+          label: 'Quick Reference',
         },
         {
           to: '/browse',
-          label: 'Browse by Region',
+          label: 'Browse by region',
           position: 'left',
         },
         {
